@@ -1,0 +1,16 @@
+name = Depping Design
+description = Feature with design.
+core = 7.x
+package = Depping
+version = 7.x-0.1
+project = depping_design
+dependencies[] = features
+dependencies[] = field_sql_storage
+dependencies[] = image
+dependencies[] = media
+dependencies[] = node
+dependencies[] = text
+features[features_api][] = api:1
+features[field][] = node-depping_design-body
+features[field][] = node-depping_design-field_pictures
+features[node][] = depping_design

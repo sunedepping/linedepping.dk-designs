@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Depping Design feature.
+ */
+
+include_once 'depping_design.features.inc';
