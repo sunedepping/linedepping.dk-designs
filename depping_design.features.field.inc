@@ -127,6 +127,7 @@ function depping_design_field_default_fields() {
             'colorbox_gallery' => 'post',
             'colorbox_gallery_custom' => '',
             'colorbox_image_style' => '',
+            'colorbox_multivalue_index' => NULL,
             'colorbox_node_style' => '9_columns',
           ),
           'type' => 'colorbox',
